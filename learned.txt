@@ -1,0 +1,3 @@
+- icons are just fonts
+
+- flex: 0.8 - 80% width
